@@ -1,0 +1,4 @@
+.vscode
+*.stash
+*.o
+main
